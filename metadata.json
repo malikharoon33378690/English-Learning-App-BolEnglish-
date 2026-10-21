@@ -1,0 +1,6 @@
+{
+  "name": "BolEnglish - Urdu to English Learning & Quizzes",
+  "description": "Learn English from Urdu with daily vocabulary quizzes for beginners, Roman Urdu pronunciation, interactive flashcards, audio speech, and grammar insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
